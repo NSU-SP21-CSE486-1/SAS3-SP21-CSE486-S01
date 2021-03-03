@@ -8,8 +8,10 @@
 <p align="center">Department of Electrical &amp; Computer Engineering</p>
 <p align="center"><strong>Course Repository</strong></p>
 <p align="center"><strong>SPRING 2021 </strong></p>
+
+
 <p align="center"><strong>Course Name</strong>: Mobile and Wireless Application Development </p>
-<p align="center"><strong>Course No</strong>: CSE 486 <strong>Sec</strong><strong>:</strong> 3</p>
+<p align="center"><strong>Course No</strong>: CSE 486 <strong>Sec</strong><strong>:</strong> 01</p>
 <p align="center"><strong>Faculty</strong>: Shaikh Shawon Arefin Shimon (SAS3)</p>
 <p align="center"><strong><u>Member 1</u></strong><u>:</u></p>
 <p align="center"><strong>Name</strong><strong>:</strong> Shaikh Shawon Arefin Shimon</p>
